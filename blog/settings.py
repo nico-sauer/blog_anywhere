@@ -29,7 +29,7 @@ SECRET_KEY = "2uwk$40q57zprz#40c*ns$81hoo&af!y4ybvb5wauee^ch*!m6"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1", "nicosaurus.pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "nicosaurus.eu.pythonanywhere.com"]
 
 SITE_ID = 1
 
